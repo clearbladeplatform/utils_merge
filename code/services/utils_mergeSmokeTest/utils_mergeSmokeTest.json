@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,utils_merge",
+    "logging_enabled": "false",
+    "name": "utils_mergeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "utils_mergeSmokeTest.js"
+}
